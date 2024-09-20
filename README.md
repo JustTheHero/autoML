@@ -1,5 +1,5 @@
 # Patterns in Dengue Cases
 
-This project utilizes the H2O library in Python to identify patterns in the dengue case database from the São Carlos Health Department in Brazil for the year 2021. Due to the sensitive nature of the dataset, which is protected under the LGPD (General Data Protection Law), it is not possible to provide a fully usable dataset. However, by following the model outlined in the data dictionary file, this code can be used to generate new models for any dataset and can also be applied to interpret other data.
+This project leverages the H2O library in Python to explore patterns within the dengue case database from the São Carlos Health Department in Brazil for the year 2021. Given the dataset’s sensitivity, protected under Brazil’s LGPD (General Data Protection Law), it cannot be shared in full. However, the code structure follows the model described in the accompanying data dictionary file, enabling users to adapt it to different datasets and interpret diverse data scenarios.
 
-Developed by me as part of research at the University of São Paulo (USP).
+Developed as part of my research at the University of São Paulo (USP), this project aims to provide a framework for building and analyzing models, offering insights into disease patterns while respecting data privacy constraints.
